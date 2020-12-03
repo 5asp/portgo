@@ -2,8 +2,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 Hi, I'm T0of, keep learning is my goal.
-- 🌱 I’m currently learning go docker.
+Hi, I'm T0of, keep learning is my goal.
+I’m currently learning go docker.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...

@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
-
 Hi, I'm T0of, keep learning is my goal.
 
 - I’m currently work as a backend engineer.
